@@ -1,0 +1,81 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results skipped="0" failed="0" ignored="0" total="5" passed="5">
+  <reporter-output>
+  </reporter-output>
+  <suite name="Suite" duration-ms="34186" started-at="2018-02-19T10:31:35Z" finished-at="2018-02-19T10:32:09Z">
+    <groups>
+    </groups>
+    <test name="Test" duration-ms="34186" started-at="2018-02-19T10:31:35Z" finished-at="2018-02-19T10:32:09Z">
+      <class name="Tests.TC1">
+        <test-method status="PASS" signature="initDriver()[pri:0, instance:Tests.TC1@3532ec19]" name="initDriver" is-config="true" duration-ms="18081" started-at="2018-02-19T16:01:35Z" finished-at="2018-02-19T16:01:53Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- initDriver -->
+        <test-method status="PASS" signature="method1()[pri:0, instance:Tests.TC1@3532ec19]" name="method1" duration-ms="3338" started-at="2018-02-19T16:01:53Z" finished-at="2018-02-19T16:01:56Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- method1 -->
+        <test-method status="PASS" signature="quitDriver()[pri:0, instance:Tests.TC1@3532ec19]" name="quitDriver" is-config="true" duration-ms="88" started-at="2018-02-19T16:01:56Z" finished-at="2018-02-19T16:01:56Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- quitDriver -->
+      </class> <!-- Tests.TC1 -->
+      <class name="Tests.TC2">
+        <test-method status="PASS" signature="initDriver()[pri:0, instance:Tests.TC2@68c4039c]" name="initDriver" is-config="true" duration-ms="10338" started-at="2018-02-19T16:01:35Z" finished-at="2018-02-19T16:01:45Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- initDriver -->
+        <test-method status="PASS" signature="method1()[pri:0, instance:Tests.TC2@68c4039c]" name="method1" duration-ms="4461" started-at="2018-02-19T16:01:45Z" finished-at="2018-02-19T16:01:50Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- method1 -->
+        <test-method status="PASS" signature="quitDriver()[pri:0, instance:Tests.TC2@68c4039c]" name="quitDriver" is-config="true" duration-ms="82" started-at="2018-02-19T16:01:50Z" finished-at="2018-02-19T16:01:50Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- quitDriver -->
+      </class> <!-- Tests.TC2 -->
+      <class name="Tests.TC3">
+        <test-method status="PASS" signature="initDriver()[pri:0, instance:Tests.TC3@ae45eb6]" name="initDriver" is-config="true" duration-ms="24637" started-at="2018-02-19T16:01:35Z" finished-at="2018-02-19T16:01:59Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- initDriver -->
+        <test-method status="PASS" signature="method1()[pri:0, instance:Tests.TC3@ae45eb6]" name="method1" duration-ms="3094" started-at="2018-02-19T16:01:59Z" finished-at="2018-02-19T16:02:03Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- method1 -->
+        <test-method status="PASS" signature="quitDriver()[pri:0, instance:Tests.TC3@ae45eb6]" name="quitDriver" is-config="true" duration-ms="35" started-at="2018-02-19T16:02:03Z" finished-at="2018-02-19T16:02:03Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- quitDriver -->
+      </class> <!-- Tests.TC3 -->
+      <class name="Tests.TC4">
+        <test-method status="PASS" signature="initDriver()[pri:0, instance:Tests.TC4@59f99ea]" name="initDriver" is-config="true" duration-ms="30976" started-at="2018-02-19T16:01:35Z" finished-at="2018-02-19T16:02:06Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- initDriver -->
+        <test-method status="PASS" signature="method1()[pri:0, instance:Tests.TC4@59f99ea]" name="method1" duration-ms="3140" started-at="2018-02-19T16:02:06Z" finished-at="2018-02-19T16:02:09Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- method1 -->
+        <test-method status="PASS" signature="quitDriver()[pri:0, instance:Tests.TC4@59f99ea]" name="quitDriver" is-config="true" duration-ms="53" started-at="2018-02-19T16:02:09Z" finished-at="2018-02-19T16:02:09Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- quitDriver -->
+      </class> <!-- Tests.TC4 -->
+      <class name="Tests.TC5">
+        <test-method status="PASS" signature="initDriver()[pri:0, instance:Tests.TC5@27efef64]" name="initDriver" is-config="true" duration-ms="3608" started-at="2018-02-19T16:01:35Z" finished-at="2018-02-19T16:01:38Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- initDriver -->
+        <test-method status="PASS" signature="method1()[pri:0, instance:Tests.TC5@27efef64]" name="method1" duration-ms="3557" started-at="2018-02-19T16:01:38Z" finished-at="2018-02-19T16:01:42Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- method1 -->
+        <test-method status="PASS" signature="quitDriver()[pri:0, instance:Tests.TC5@27efef64]" name="quitDriver" is-config="true" duration-ms="46" started-at="2018-02-19T16:01:42Z" finished-at="2018-02-19T16:01:42Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- quitDriver -->
+      </class> <!-- Tests.TC5 -->
+    </test> <!-- Test -->
+  </suite> <!-- Suite -->
+</testng-results>

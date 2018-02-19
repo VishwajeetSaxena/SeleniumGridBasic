@@ -1,0 +1,38 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE suite SYSTEM "http://testng.org/testng-1.0.dtd">
+<suite guice-stage="DEVELOPMENT" name="Failed suite [Suite]" parallel="classes">
+  <test name="Test(failed)" parallel="classes">
+    <classes>
+      <class name="Tests.TC3">
+        <methods>
+          <include name="initDriver"/>
+          <include name="method1"/>
+        </methods>
+      </class> <!-- Tests.TC3 -->
+      <class name="Tests.TC2">
+        <methods>
+          <include name="initDriver"/>
+          <include name="method1"/>
+        </methods>
+      </class> <!-- Tests.TC2 -->
+      <class name="Tests.TC1">
+        <methods>
+          <include name="initDriver"/>
+          <include name="method1"/>
+        </methods>
+      </class> <!-- Tests.TC1 -->
+      <class name="Tests.TC5">
+        <methods>
+          <include name="initDriver"/>
+          <include name="method1"/>
+        </methods>
+      </class> <!-- Tests.TC5 -->
+      <class name="Tests.TC4">
+        <methods>
+          <include name="initDriver"/>
+          <include name="method1"/>
+        </methods>
+      </class> <!-- Tests.TC4 -->
+    </classes>
+  </test> <!-- Test(failed) -->
+</suite> <!-- Failed suite [Suite] -->
